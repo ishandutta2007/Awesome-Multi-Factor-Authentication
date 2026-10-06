@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Multi-Factor-Authentication/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Factor-Authentication?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Multi-Factor-Authentication/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Factor-Authentication?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Factor-Authentication/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Multi-Factor-Authentication?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Factor-Authentication/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Multi-Factor-Authentication?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -65,9 +65,9 @@ This repository tracks **commercial SaaS MFA providers** alongside **production-
 
 The open-source MFA ecosystem delivers production-proven offline authenticators, zero-knowledge sync, and full-featured self-hosted IAM platforms.
 
-*(Sorted by GitHub Star count descending)* ⬇️
+*(Sorted by GitHub Stars_Count descending)* ⬇️
 
-| Repo | Description | Stars 🌟 |
+| Repo | Description | GitHub_Stars 🌟 |
 |:---|:---|:---|
 | **[Keycloak](https://github.com/keycloak/keycloak)** 👑 | **The most widely deployed open-source IAM.** Covers **SSO, identity brokering, social login, and RBAC**. Native SAML, OAuth2, OIDC, LDAP. MFA: **TOTP, WebAuthn, SMS, OIDC, email, push, biometric**. **Apache-2.0**. | [<img src="https://img.shields.io/github/stars/keycloak/keycloak?style=social&color=white" alt="Keycloak Stars"/>](https://github.com/keycloak/keycloak/stargazers) |
 | **[Authelia](https://github.com/authelia/authelia)** ⚡ | **Lightweight 2FA/SSO for reverse proxies.** Sub-20 MB container, ~30 MB RAM. **FIDO2 WebAuthn, TOTP, Duo push, passkeys**. OIDC certified. YAML-configured. **Apache-2.0**. | [<img src="https://img.shields.io/github/stars/authelia/authelia?style=social&color=white" alt="Authelia Stars"/>](https://github.com/authelia/authelia/stargazers) |
@@ -94,7 +94,7 @@ Contributions are welcome! Please follow these simple guidelines:
 
 1. **Fork** the repository.
 2. Add your suggested entry to `README.md` in alphabetical or sorted order.
-3. Ensure you provide: project name, official URL, concise description, starting price/star badge, and license.
+3. Ensure you provide: project name, official URL, concise description, starting price/Stars_Badge, and license.
 4. Open a **Pull Request** with a brief summary of the project added.
 
 Read our full awesome list guidelines at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
